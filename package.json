@@ -1,0 +1,14 @@
+{
+  "name": "typebot-viewer-clean",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev apps/viewer",
+    "build": "next build apps/viewer",
+    "start": "next start apps/viewer"
+  },
+  "dependencies": {
+    "next": "13.4.12",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
